@@ -1,65 +1,20 @@
-
 <div align="center">
 
-  <img src="./coding-banner.gif"
-       alt="Hendi Andriyansyah Coding Animation"
-       width="100%" />
+## 💙 Hendi's Coding Journey
 
-  <h3>💙 Code • Learn • Build • Repeat</h3>
+<sub>Creating • Learning • Growing</sub>
 
-  <a href="https://github.com/Hendiandriyansyah?tab=repositories">
-    🚀 My Projects
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Hendiandriyansyah?tab=followers">
-    🤝 Follow Me
-  </a>
+<br><br>
 
-</div>
+<a href="https://github.com/Hendiandriyansyah?tab=repositories">
+  <img src="https://img.shields.io/badge/MY_PROJECTS-0A2647?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://github.com/Hendiandriyansyah?tab=followers">
+  <img src="https://img.shields.io/badge/FOLLOW_ME-144272?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
----
+<br><br>
 
-### 👨‍💻 About Me
+<sub><b>Java</b> • <b>MySQL</b> • <b>UI Design</b> • <b>Web Development</b></sub>
 
-Hi, I'm **Hendi Andriyansyah**! 👋
-
-I'm interested in developing practical software,
-exploring programming, and continuously improving
-my technical skills.
-
-- ☕ **Focus:** Java desktop applications
-- 🗄️ **Database:** MySQL
-- 🌐 **Exploring:** HTML, CSS, JavaScript
-- 🛠️ **Tools:** NetBeans, VS Code, Git, GitHub
-- 📚 **Learning:** Clean code and UI design
-
-### 🧰 Tech Stack
-
-| Languages | Database | Tools |
-|:--|:--|:--|
-| Java, HTML, CSS, JavaScript | MySQL | NetBeans, VS Code, Git, GitHub |
-
-### ⚡ What I Like Working On
-
-```java
-public class Developer {
-    public static void main(String[] args) {
-        String name = "Hendi Andriyansyah";
-        String mindset = "Keep learning, keep building!";
-
-        System.out.println(name + " | " + mindset);
-    }
-}
-```
-
-### 📂 Explore My Projects
-
-Check out my repositories to see my latest work.
-
-👉 [My GitHub Repositories](https://github.com/Hendiandriyansyah?tab=repositories)
-
----
-
-<div align="center">
-  <sub>💠 Built with curiosity, coffee, and lots of debugging.</sub>
 </div>
